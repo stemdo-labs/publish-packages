@@ -1,17 +1,17 @@
 <!--
-  <<< Author notes: Step 3 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Notas del autor: Paso 3 >>>
+  Comienza este paso reconociendo el paso anterior.
+  Define términos y enlaza a docs.github.com.
 -->
 
-## Step 3: Merge your changes
+## Paso 3: Fusiona tus cambios
 
-_Let's get publishing! :heart:_
+_¡Vamos a publicar! :heart:_
 
-You can now [merge](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) your changes!
+Ahora puedes [fusionar](https://docs.github.com/es/get-started/quickstart/github-glossary#merge) tus cambios.
 
-### :keyboard: Activity: Merge your changes
+### :keyboard: Actividad: Fusiona tus cambios
 
-1. Merge your changes from `cd` into `main`. If you created the pull request in step 1, just open that PR and click on **Merge pull request**. If you did not create the pull request earlier, you can do it now by following the instructions in step 1.
-1. (optional) Delete the branch `cd`.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+1. Fusiona tus cambios desde `cd` hacia `stemdo`. Si creaste la solicitud de extracción en el paso 1, simplemente abre esa PR y haz clic en **Merge pull request**. Si no creaste la solicitud de extracción anteriormente, puedes hacerlo ahora siguiendo las instrucciones del paso 1.
+1. (opcional) Elimina la rama `cd`.
+1. Espera aproximadamente 20 segundos y luego actualiza esta página (la que estás siguiendo las instrucciones). [GitHub Actions](https://docs.github.com/en/actions) se actualizará automáticamente al siguiente paso.

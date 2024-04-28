@@ -1,26 +1,27 @@
+
 <!--
-  <<< Author notes: Step 5 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Notas del autor: Paso 5 >>>
+  Comienza este paso reconociendo el paso anterior.
+  Define términos y enlaza a docs.github.com.
 -->
 
-## Step 5: Run your image
+## Paso 5: Ejecuta tu imagen
 
-_Nicely done grabbing your Docker image! :relaxed:_
+_¡Bien hecho al obtener tu imagen Docker! :relaxed:_
 
-Let's trying running it.
+Intentemos ejecutarla.
 
-### :keyboard: Activity: Run your image
+### :keyboard: Actividad: Ejecuta tu imagen
 
-1. Find your image information by typing `docker image ls`.
-   ![screenshot of output from Docker image ls command: lists docker images, REPOSITORY TAG and docker URL](https://i.imgur.com/UAwRXiq.png)<!-- This screenshot should be changed. -->
-1. Use the following command to run a container from your image:
+1. Encuentra la información de tu imagen escribiendo `docker image ls`.
+   ![captura de pantalla de la salida del comando Docker image ls: lista las imágenes de Docker, REPOSITORY TAG y URL de Docker](https://i.imgur.com/UAwRXiq.png)<!-- Esta captura de pantalla debe cambiarse. -->
+1. Utiliza el siguiente comando para ejecutar un contenedor desde tu imagen:
    ```bash
    docker run -dp 8080:80 --rm <YOUR_IMAGE_NAME:TAG>
    ```
-1. Replace `YOUR_IMAGE_NAME` with your image name under the `REPOSITORY` column.
-1. Replace `TAG` with the image tag under the `TAG` column.
-1. Press **Enter**.
-1. If everything went well, you will see hash value as output on your screen.
-1. Optionally, you can open [localhost:8080](http://localhost:8080) to see the page you just created.
-1. _We can't automatically verify this step for you, so please continue on to the next step below!_
+1. Reemplaza `YOUR_IMAGE_NAME` con el nombre de tu imagen bajo la columna `REPOSITORY`.
+1. Reemplaza `TAG` con la etiqueta de la imagen bajo la columna `TAG`.
+1. Presiona **Enter**.
+1. Si todo salió bien, verás un valor hash como salida en tu pantalla.
+1. Opcionalmente, puedes abrir [localhost:8080](http://localhost:8080) para ver la página que acabas de crear.
+1. _No podemos verificar automáticamente este paso por ti, ¡así que por favor continúa con el siguiente paso a continuación!_

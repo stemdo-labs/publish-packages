@@ -1,24 +1,24 @@
 <!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
+  <<< Notas del autor: Finalizar >>>
+  Revisa lo que aprendimos, solicita comentarios, proporciona los siguientes pasos.
 -->
 
-## Finish
+## Finalizar
 
-_Congratulations friend, you've completed this course!_
+_¡Felicidades amigo, has completado este curso!_
 
 <img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of all the tasks you've accomplished in your repository:
+Aquí tienes un resumen de todas las tareas que has realizado en tu repositorio:
 
-- You wrote a workflow that sends a code through a continuous delivery pipeline.
-- You built a fully deployable artifact.
-- You did so using GitHub Actions and GitHub Packages!
+- Escribiste un flujo de trabajo que envía un código a través de un canal de entrega continua.
+- Construiste un artefacto totalmente desplegable.
+- ¡Lo hiciste usando GitHub Actions y GitHub Packages!
 
-### What's next?
+### ¿Qué sigue?
 
-- Publish your own packages from your projects.
-- We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/publish-packages).
-- [Take another GitHub Skills course](https://github.com/skills).
-- [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).
-- To find projects to contribute to, check out [GitHub Explore](https://github.com/explore).
+- Publica tus propios paquetes desde tus proyectos.
+- Nos encantaría saber qué opinas de este curso [en nuestro foro de discusión](https://github.com/orgs/skills/discussions/categories/publish-packages).
+- [Toma otro curso de GitHub Skills](https://github.com/skills).
+- [Lee la documentación de GitHub Getting Started](https://docs.github.com/en/get-started).
+- Para encontrar proyectos a los que contribuir, echa un vistazo a [GitHub Explore](https://github.com/explore).

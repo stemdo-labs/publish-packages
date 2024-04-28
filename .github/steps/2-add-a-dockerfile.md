@@ -1,21 +1,22 @@
 <!--
-  <<< Author notes: Step 2 >>>
-  Start this step by acknowledging the previous step.
-  Define terms and link to docs.github.com.
+  <<< Notas del autor: Paso 2 >>>
+  Comienza este paso reconociendo el paso anterior.
+  Define términos y enlaza a docs.github.com.
 -->
 
-## Step 2: Add a Dockerfile
+## Paso 2: Agregar un Dockerfile
 
-_You created a publishing workflow! :tada:_
+_¡Has creado un flujo de trabajo de publicación! :tada:_
 
-We will add a `Dockerfile` to the `cd` branch. The `Dockerfile` contains a set of instructions that get stored in a `Docker Image`. If you'd like, you can [learn more about Dockerfiles](https://docs.docker.com/engine/reference/builder/).
+Añadiremos un `Dockerfile` a la rama `cd`. El `Dockerfile` contiene un conjunto de instrucciones que se almacenan en una `Imagen de Docker`. Si deseas, puedes [aprender más sobre Dockerfiles](https://docs.docker.com/engine/reference/builder/).
 
-### :keyboard: Activity: Add a Dockerfile
+### :keyboard: Actividad: Agregar un Dockerfile
 
-1. In the `cd` branch, create `Dockerfile` at the project root and include:
+1. En la rama `cd`, crea un archivo `Dockerfile` en la raíz del proyecto e incluye:
    ```dockerfile
    FROM nginx:1.24-alpine
    COPY . /usr/share/nginx/html
    ```
-1. Commit your changes.
-1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+1. Haz commit a tus cambios.
+1. Espera aproximadamente 20 segundos y luego actualiza esta página (la que estás siguiendo las instrucciones). [GitHub Actions](https://docs.github.com/en/actions) se actualizará automáticamente al siguiente paso.
